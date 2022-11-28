@@ -12,11 +12,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- An aspiring Full Stack Web Developer developer
+- Currently studying Full Stack Web Development at Masai, Full Time
+- Personal website [link](https://salimzeeshan.github.io/portfolio/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13RMS0TwUEnhKzNZ5w0O8lWK8NElLq4PS/view?usp=share_link)
 
 <br><br>
 
