@@ -14,23 +14,23 @@
 
 - An aspiring Full Stack Web Developer developer
 - Currently studying Full Stack Web Development at Masai, Full Time
-- Personal website [link](https://salimzeeshan.github.io/portfolio/)
+- Portfolio [link](https://salimzeeshan.github.io/portfolio/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13RMS0TwUEnhKzNZ5w0O8lWK8NElLq4PS/view?usp=share_link)
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <b> Skills</b>
 <br>
 
 <p align="center">
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C](https://img.shields.io/badge/JavaScript20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/HTML%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/CSS%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
