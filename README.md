@@ -87,6 +87,8 @@
 
 ## <b>GitHub Stats 📈</b>
 
+<br>
+
 <div>
   <p>
     <img
