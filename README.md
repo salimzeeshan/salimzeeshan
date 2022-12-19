@@ -6,7 +6,7 @@
 
 
 	
-## **About me**
+## **About me 👋🏻**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -21,7 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <b> Skills</b>
+## <b>Skills 🧠</b>
 <br>
 
 <p align="center">
@@ -59,7 +59,11 @@
 <br>  
 </p>
 
-## <b>Let's Connect!</b>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+## <b>Let's Connect! 🤝🏻</b>
 <br>
 <div align='left'>
 	
@@ -80,6 +84,8 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
+## <b>GitHub Stats 📈</b>
 
 <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salimzeeshan&show_icons=true&locale=en&layout=compact" alt="salimzeeshan" /></p> -->
