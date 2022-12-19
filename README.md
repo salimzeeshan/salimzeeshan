@@ -15,7 +15,7 @@
 - An aspiring Full Stack Web Developer developer
 - Currently studying Full Stack Web Development at Masai, Full Time
 - Portfolio [link](https://salimzeeshan.github.io/portfolio/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13RMS0TwUEnhKzNZ5w0O8lWK8NElLq4PS/view?usp=share_link)
+- I’m currently open for an Internship or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13RMS0TwUEnhKzNZ5w0O8lWK8NElLq4PS/view?usp=share_link)
 
 <br><br>
 
