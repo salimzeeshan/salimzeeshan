@@ -30,9 +30,21 @@
     
 - **Front-End Development**:
 
+   ![React](https://img.shields.io/badge/React%20-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript%20-3077C4?style=for-the-badge&logo=typescript&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+	
+<br>   
+    
+- **Back-End Development**:
+
+   ![Angular](https://img.shields.io/badge/Angular%20-E23236?style=for-the-badge&logo=angular&logoColor=white)
+   ![Mongo](https://img.shields.io/badge/MongoDB%20-3e9c38?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/MySQL%20-5382a0?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
     
@@ -81,4 +93,9 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<br>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salimzeeshan&show_icons=true&locale=en&layout=compact" alt="salimzeeshan" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salimzeeshan&show_icons=true&locale=en" alt="salimzeeshan" /></p>
 <br>
