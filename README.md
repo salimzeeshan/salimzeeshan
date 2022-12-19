@@ -21,10 +21,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<div align="left">
+
 ## <b>Skills 🧠</b>
 <br>
-
-<p align="center">
 
 <br>   
     
@@ -56,8 +56,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>  
-</p>
+<br>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -80,6 +79,7 @@
 </a>
 
 </div>
+</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -87,7 +87,19 @@
 
 ## <b>GitHub Stats 📈</b>
 
-<br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salimzeeshan&show_icons=true&locale=en&layout=compact" alt="salimzeeshan" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salimzeeshan&show_icons=true&locale=en" alt="salimzeeshan" /></p>
-<br>
+<div>
+  <p>
+    <img
+      align="left" width="47%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=salimzeeshan&show_icons=true&locale=en&layout=compact"
+      alt="Mohammad Zeeshan Salim"
+    />
+  </p>
+  <p>
+    &nbsp;<img
+      align="right" width="47%" 
+      src="https://github-readme-stats.vercel.app/api?username=salimzeeshan&show_icons=true&locale=en"
+      alt="Mohammad Zeeshan Salim"
+    />
+  </p>
+</div>
