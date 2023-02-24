@@ -31,6 +31,7 @@
 - **Front-End Development**:
 
    ![React](https://img.shields.io/badge/React%20-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+   ![Angular](https://img.shields.io/badge/Angular%20-E23236?style=for-the-badge&logo=angular&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![TypeScript](https://img.shields.io/badge/TypeScript%20-3077C4?style=for-the-badge&logo=typescript&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +43,6 @@
     
 - **Back-End Development**:
 
-   ![Angular](https://img.shields.io/badge/Angular%20-E23236?style=for-the-badge&logo=angular&logoColor=white)
    ![Mongo](https://img.shields.io/badge/MongoDB%20-3e9c38?style=for-the-badge&logo=mongodb&logoColor=white)
    ![MySQL](https://img.shields.io/badge/MySQL%20-5382a0?style=for-the-badge&logo=mysql&logoColor=white)
 
