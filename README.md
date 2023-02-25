@@ -3,7 +3,7 @@
 
 <br>
 
-
+![](https://komarev.com/ghpvc/?username=salimzeeshan&color=blue)
 
 	
 ## **About me 👋🏻**
