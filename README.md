@@ -11,7 +11,7 @@
 <br>
 
 - A Full Stack Web Developer
-- Currently working as a Software Engineer at PlayZap Games, Bangalore, India.
+- Currently working as a Frontend Engineer at PlayZap Games, Bangalore, India.
 - Portfolio [link](https://salimzeeshan.github.io/)
 - [Resume](https://drive.google.com/file/d/1LG2Qm0p3KaKqtfV-5draXqJEjRFzscoo/view?usp=drive_link)
 
