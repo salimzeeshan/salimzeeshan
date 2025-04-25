@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hey, I'm <a href="https://nehagupta.netlify.app/">Zeeshan</a></h1>
+  <h1 align="center">Hey, I'm <a href="https://salimzeeshan.github.io/">Zeeshan</a></h1>
   <p align="center"><strong>I'm a Full Stack Web Developer from Delhi, India.</strong> 🚀</p>
 </p>
 
