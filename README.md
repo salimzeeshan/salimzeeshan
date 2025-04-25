@@ -1,5 +1,4 @@
 <p align="center">
-  <img align="center" src="https://media.discordapp.net/attachments/1232249762598621248/1365396448648106034/IMG_6362.png?ex=680d2809&is=680bd689&hm=e7f944b41be675118200411bd863eaaac8509f46547731bf0895810fc2e0d904&=&format=webp&quality=lossless&width=960&height=960" alt="Zeeshan" />
   <h1 align="center">Hey, I'm <a href="https://nehagupta.netlify.app/">Zeeshan</a></h1>
   <p align="center"><strong>I'm a Full Stack Web Developer from Delhi, India.</strong></p>
 </p>
