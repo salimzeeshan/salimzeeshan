@@ -1,15 +1,7 @@
 <p align="center">
   <h1 align="center">Hey, I'm <a href="https://nehagupta.netlify.app/">Zeeshan</a></h1>
-  <p align="center"><strong>I'm a Full Stack Web Developer from Delhi, India.</strong></p>
+  <p align="center"><strong>I'm a Full Stack Web Developer from Delhi, India.</strong> 🚀</p>
 </p>
-
- - Currently working as a Frontend Engineer at PlayZap Games, Bangalore, India.
- - Portfolio [link](https://salimzeeshan.github.io/)
- - [Resume](https://drive.google.com/file/d/1LG2Qm0p3KaKqtfV-5draXqJEjRFzscoo/view?usp=drive_link)
- 
- <br><br>
- 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
  <div align="left">
  
@@ -18,7 +10,7 @@
  
  <br>   
      
- - **Front-End Development**:
+**Front-End Development**:
  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /> 
