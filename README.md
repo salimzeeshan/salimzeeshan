@@ -2,10 +2,6 @@
   <h1 align="center">Hey, I'm <a href="https://salimzeeshan.github.io/">Zeeshan</a></h1>
   <p align="center"><strong>I'm a Full Stack Web Developer from Delhi, India.</strong> 🚀</p>
 </p>
-
- <br>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <br>
  
  <div align="left">
  
