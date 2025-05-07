@@ -7,8 +7,6 @@
  
  ## <b>Skills 🧠</b>
  <br>
- 
- <br>   
      
 **Frontend Development**:
  
