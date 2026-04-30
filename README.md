@@ -70,24 +70,4 @@
  <br>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <br>
- 
- ## <b>GitHub Stats 📈</b>
- 
- <br>
- 
- <div>
-   <p>
-     <img
-       align="left" width="47%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=salimzeeshan&show_icons=true&locale=en&layout=compact"
-       alt="Mohammad Zeeshan Salim"
-     />
-   </p>
-   <p>
-     &nbsp;<img
-       align="right" width="47%" 
-       src="https://github-readme-stats.vercel.app/api?username=salimzeeshan&show_icons=true&locale=en"
-       alt="Mohammad Zeeshan Salim"
-     />
-   </p>
  </div>
